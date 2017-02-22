@@ -77,6 +77,13 @@
 			<artifactId>svnkit</artifactId>
 			<version>1.8.15</version>
 		</dependency>
+
+		<!-- GIT -->
+		<dependency>
+			<groupId>org.eclipse.jgit</groupId>
+			<artifactId>org.eclipse.jgit</artifactId>
+			<version>4.6.0.201612231935-r</version>
+		</dependency>
 	</dependencies>
 
 	<repositories>
